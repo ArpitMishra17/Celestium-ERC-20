@@ -1,13 +1,11 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-  const tokenCap = ethers.parseUnits("100000000", 18); // 100 million tokens
-  const blockReward = ethers.parseUnits("50", 18); // 50 tokens per block
-
+  
   console.log("Deploying Celestium...");
 
   const Token = await ethers.getContractFactory("Celestium");
-  const celestium = await Token.deploy(tokenCap, blockReward);
+  const celestium = await Token.deploy(100000000, 50);
 
   await celestium.waitForDeployment();
 
