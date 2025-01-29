@@ -11,14 +11,14 @@ This project implements an **ERC-20** token named **Celestium**, featuring a cap
 
   
 
-📂 Celestium-ERC20/ 
-│── 📂 contracts/ # Smart contracts (Solidity) 
-│── 📂 scripts/ # Deployment scripts 
-│── 📂 test/ # Unit tests (Hardhat + Chai) 
-│── 📄 hardhat.config.js # Hardhat configuration file 
-│── 📄 package.json # Project dependencies 
-│── 📄 .env # Environment variables (private keys, RPC URLs) 
-│── 📄 README.md # Project documentation
+📂 Celestium-ERC20/ <br />
+│── 📂 contracts/ # Smart contracts (Solidity) <br />
+│── 📂 scripts/ # Deployment scripts <br />
+│── 📂 test/ # Unit tests (Hardhat + Chai) <br />
+│── 📄 hardhat.config.js # Hardhat configuration file <br />
+│── 📄 package.json # Project dependencies <br />
+│── 📄 .env # Environment variables (private keys, RPC URLs) <br />
+│── 📄 README.md # Project documentation <br />
 
 
 
