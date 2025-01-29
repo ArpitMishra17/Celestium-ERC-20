@@ -3,8 +3,8 @@
 
   
 
-This project implements an **ERC-20** token named **Celestium**, featuring a capped total supply and block rewards for miners. It includes smart contract code, unit tests, and deployment scripts for the **Ethereum Sepolia Testnet**.
-
+This project implements an **ERC-20** token named **Celestium**, featuring a capped total supply and block rewards for miners. It includes smart contract code, unit tests, and deployment scripts for the **Ethereum Sepolia Testnet**.<br /><br />
+Checkout **Celestium** at [Etherscan](https://sepolia.etherscan.io/token/0x95A02C671fF4677ab54533F4Ef8dAF2E789E1039).
   
 
 ## 📁 Project Structure
